@@ -6,7 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397bb6e3-b778-45f3-aac7-6b4a6bc42e9a" name="Default Changelist" comment="" />
+    <list default="true" id="397bb6e3-b778-45f3-aac7-6b4a6bc42e9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/OpenSwitcherCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/OpenSwitcherCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/gui/SelectorGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/gui/SelectorGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/listeners/InventoryClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/listeners/InventoryClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/util/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/util/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/util/InventoryItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/util/InventoryItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/util/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/worlds/WorldClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/worlds/WorldClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/worlds/WorldManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorldSwitcher/de/redcube/worldSwitcher/worlds/WorldManager.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g28W7zEPXGkgDdyOyCvr2Sr4MA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,8 +43,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -59,14 +76,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597311267259" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1597650221893">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1597658880028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597650221893" />
-    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1597647717012">
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597658880028" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1597658842369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597647717012" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597658842369" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1597314848081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
