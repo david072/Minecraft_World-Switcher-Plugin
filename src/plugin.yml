@@ -1,0 +1,10 @@
+name: World-Switcher
+version: 1.0
+api-version: 1.13
+author: TheRedCubey
+
+main: de.redcube.worldSwitcher.main.Main
+commands:
+  switcher:
+    usage: /switcher
+    description: Opens the switcher GUI

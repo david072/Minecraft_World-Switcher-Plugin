@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldSwitcher:jar">
+    <output-path>$PROJECT_DIR$/../JARs/WorldSwitcher</output-path>
+    <root id="archive" name="WorldSwitcher.jar">
+      <element id="module-output" name="WorldSwitcher" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-1.16.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
